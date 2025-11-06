@@ -25,8 +25,8 @@
     <img src="https://komarev.com/ghpvc/?username=MaDHouSe79&label=Profile%20views&color=3464eb&style=for-the-badge&logo=star&abbreviated=true" alt="MaDHouSe79" style="padding-right:20px;" />
 </p>
 
-# MH Homeles (QB/QBX/ESX)
-- A homeles script for players that don't have a house or apartment.
+# MH Homeless (QB/QBX/ESX)
+- A homeless script for players that don't have a house or apartment.
 - This is when you have apartment off and you can buy houses in game.
 - The shelter and trolly has a stash build in.
 
@@ -46,3 +46,4 @@
 [GPL LICENSE](./LICENSE)<br />
 
 &copy; [MaDHouSe79](https://www.youtube.com/@MaDHouSe79)
+
