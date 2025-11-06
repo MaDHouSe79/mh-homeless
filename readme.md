@@ -5,20 +5,24 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/MaDHouSe79/mh-homeles/issues">
-        <img src="https://img.shields.io/github/issues/MaDHouSe79/mh-homeles"/>  </a>
-    <a href="https://github.com/MaDHouSe79/mh-homeles/watchers">
+    <a href="https://github.com/MaDHouSe79/mh-homeless/issues">
+        <img src="https://img.shields.io/github/issues/MaDHouSe79/mh-homeless"/>  </a>
+    <a href="https://github.com/MaDHouSe79/mh-homeless/watchers">
         <img src="https://img.shields.io/github/watchers/MaDHouSe79/mh-homeles"/> 
     </a> 
-    <a href="https://github.com/MaDHouSe79/mh-homeles/network/members">
-        <img src="https://img.shields.io/github/forks/MaDHouSe79/mh-homeles"/> 
+    <a href="https://github.com/MaDHouSe79/mh-homeless/network/members">
+        <img src="https://img.shields.io/github/forks/MaDHouSe79/mh-homeless"/> 
     </a>  
-    <a href="https://github.com/MaDHouSe79/mh-homeles/stargazers">
-        <img src="https://img.shields.io/github/stars/MaDHouSe79/mh-homeles?color=white"/> 
+    <a href="https://github.com/MaDHouSe79/mh-homeless/stargazers">
+        <img src="https://img.shields.io/github/stars/MaDHouSe79/mh-homeless?color=white"/> 
     </a>
-    <a href="https://github.com/MaDHouSe79/mh-homeles/blob/main/LICENSE">
-        <img src="https://img.shields.io/github/license/MaDHouSe79/mh-homeles?color=black"/> 
+    <a href="https://github.com/MaDHouSe79/mh-homeless/blob/main/LICENSE">
+        <img src="https://img.shields.io/github/license/MaDHouSe79/mh-homeless?color=black"/> 
     </a>      
+</p>
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=MaDHouSe79&label=Profile%20views&color=3464eb&style=for-the-badge&logo=star&abbreviated=true" alt="MaDHouSe79" style="padding-right:20px;" />
 </p>
 
 # MH Homeles (QB/QBX/ESX)
@@ -40,4 +44,5 @@
 
 # LICENSE
 [GPL LICENSE](./LICENSE)<br />
+
 &copy; [MaDHouSe79](https://www.youtube.com/@MaDHouSe79)
