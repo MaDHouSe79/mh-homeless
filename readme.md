@@ -26,6 +26,9 @@
 - This is when you have apartment off and you can buy houses in game.
 - The shelter and trolly has a stash build in.
 
+# Screenshots
+![foto](https://github.com/MaDHouSe79/mh-homeless/blob/main/screenshots/1.png)
+
 # Dependencies
 - [oxmysql](https://github.com/overextended/oxmysql/releases)
 - [ox_lib](https://github.com/overextended/ox_lib/releases)
