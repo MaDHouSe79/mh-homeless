@@ -64,13 +64,13 @@ RegisterNetEvent("mh-homeless:server:openStash", function(data)
         if SV_Config.InventoryScript == "qb-inventory" then
             exports['qb-inventory']:OpenInventory(src, 'homeles_trolly_stash_' .. owner, {maxweight = 50000, slots = 10})
         elseif SV_Config.InventoryScript == "ox_inventory" then
-            exports.ox_inventory:openInventory('stash', 'homeles_trolly_stash_' .. owner, {maxweight = 50000, slots = 10})
+            exports.ox_inventory:openInventory(src, 'stash', 'homeles_trolly_stash_' .. owner, {maxweight = 50000, slots = 10})
         end
     elseif data.type == 'shelter' then
         if SV_Config.InventoryScript == "qb-inventory" then
             exports['qb-inventory']:OpenInventory(src, 'homeles_shelter_stash_' .. owner, {maxweight = 500000, slots = 20})
         elseif SV_Config.InventoryScript == "ox_inventory" then
-            exports.ox_inventory:openInventory('stash', 'homeles_shelter_stash_' .. owner, {maxweight = 500000, slots = 20})
+            exports.ox_inventory:openInventory(src, 'stash', 'homeles_shelter_stash_' .. owner, {maxweight = 500000, slots = 20})
         end  
     end
 end)
