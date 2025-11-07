@@ -1,5 +1,5 @@
 -- [[ ===================================================== ]] --
--- [[                MH Homeles by MaDHouSe79               ]] --
+-- [[                MH Homeless by MaDHouSe79              ]] --
 -- [[ ===================================================== ]] --
 Framework, TriggerCallback, OnPlayerLoaded, OnPlayerUnload = nil, nil, nil, nil
 isLoggedIn, PlayerData = false, {}

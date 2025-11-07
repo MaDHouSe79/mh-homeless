@@ -1,5 +1,5 @@
 -- [[ ===================================================== ]] --
--- [[                MH Homeles by MaDHouSe79               ]] --
+-- [[                MH Homeless by MaDHouSe79              ]] --
 -- [[ ===================================================== ]] --
 local function DoesStashIdExist(id)
     local players = MySQL.query.await("SELECT * FROM "..sql.table)
@@ -20,12 +20,12 @@ local function DoesStashIdExist(id)
     return false
 end
 
-CreateUseableItem('homeles_shelter', function(source)
+CreateUseableItem('homeless_shelter', function(source)
     local src = source
     TriggerClientEvent('mh-homeless:client:spawnhome', src, "prop_homeles_shelter_02")
 end)
 
-CreateUseableItem('homeles_trolley', function(source)
+CreateUseableItem('homeless_trolley', function(source)
     local src = source
     TriggerClientEvent('mh-homeless:client:spawntrolley', src, "prop_skid_trolley_2")
 end)
