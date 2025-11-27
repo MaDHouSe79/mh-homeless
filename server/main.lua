@@ -100,11 +100,12 @@ RegisterNetEvent("mh-homeless:server:buy_shelter_item", function(data)
             local info = {stash_id = id, owner = citizenid}
             if SV_Config.InventoryScript == "qb-inventory" then
                 exports['qb-inventory']:AddItem(src, item.name, 1, nil, info, nil)
-            elseif SV_Config.InventoryScript == "qb-ox_inventory" then
+            elseif SV_Config.InventoryScript == "ox_inventory" then
                 exports.ox_inventory:AddItem(src, item.name, 1, nil, info, nil)
             end
         else
             Notify(src, "je hebt niet genoeg geld op zak...", "error", 5000)
         end
     end
+
 end)
